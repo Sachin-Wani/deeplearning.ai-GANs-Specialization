@@ -2,7 +2,7 @@
 
 GANs Specialization made by deeplearning.ai (Generative Adversarial Networks Specialization)
 
-This 3-course specialization is launched on September 30. Right now the repository contains files for Course 1, 2. The assignment files are already completed.
+This 3-course specialization is launched on September 30. Right now the repository contains files for Course 1, 2. The prefilled assignment files are already completed.
 
 Further files of Course 3 will be uploaded when the courses go live.
 
@@ -16,7 +16,7 @@ Update 3: I have decided to only upload the ipynb files of the assignments as no
 
 ## Usage
 
-Use the assignment files with prefilled code for reference only.
+Use the assignment files with prefilled code for reference only. I highly encourage you to solve the assignments on your own. In case you face any difficulties, the mentors of this specialization (me included) are available on [DeepLearning.AI GANs Slack Workspace](https://join.slack.com/t/deeplearningaigans/shared_invite/zt-hcngsgle-AiTpdD45jaT0IVOibkh9eQ). If the mentors are busy and you have less time, use this repository for reference to see what steps you were missing or doing wrong.
 
 ## Disclaimer
 The files uploaded were used during the Beta Testing of the course. Chances are there might be changes in the new files. If there is any major change you'd like to address, you can mail me on [Gmail](mailto:sachin27071998@gmail.com) or send a message on my [LinkedIn Profile](https://www.linkedin.com/in/sachinwani27/)
